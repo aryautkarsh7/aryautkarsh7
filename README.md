@@ -1,7 +1,5 @@
-const arya = {
-  role: "BTech Student & Developer",
-  code: ["JavaScript", "Python", "HTML", "CSS"],
-  building: ["Electron Apps", "Web Projects", "AI Tools"],
-  learning: ["React", "Backend", "System Design"],
-  funFact: "Turning ideas into projects ⚡"
-}
+👨‍💻 BTech CSE Student  
+⚡ Freelance Developer & Tech Enthusiast  
+🚀 Building projects with React, Electron, Node.js & Python  
+📦 Open Source • UI Design • Automation • AI  
+🎯 Goal: Build products people actually use
