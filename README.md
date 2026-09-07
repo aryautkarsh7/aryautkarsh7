@@ -103,18 +103,6 @@
   Actions tab → "Generate Snake" → Run workflow.
 -->
 
-<div align="center">
-
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/aryautkarsh7/aryautkarsh7/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryautkarsh7/aryautkarsh7/output/github-snake-light.svg">
-  <img alt="Snake animation consuming the GitHub contribution graph" width="98%"
-    src="https://raw.githubusercontent.com/aryautkarsh7/aryautkarsh7/output/github-snake-dark.svg">
-</picture>
-
-</div>
 
 <br>
 
