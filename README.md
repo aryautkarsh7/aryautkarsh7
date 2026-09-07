@@ -93,24 +93,6 @@
 
 <br>
 
-<!-- ────────────────────── GITHUB STATISTICS ───────────────────── -->
-
-<div align="center">
-
-## 📊 GitHub Statistics
-
-<img alt="Arya Utkarsh's GitHub statistics" height="170"
-  src="https://github-readme-stats.vercel.app/api?username=aryautkarsh7&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0A241B&title_color=5FED83&icon_color=0FBF3E&text_color=CFF7DC&ring_color=EC4899&cache_seconds=86400&v=1">
-&nbsp;
-<img alt="Most used programming languages" height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryautkarsh7&layout=compact&langs_count=8&hide_border=true&bg_color=0A241B&title_color=5FED83&text_color=CFF7DC&cache_seconds=86400&v=1">
-
-<br><br>
-
-<img alt="GitHub contribution streak" height="180"
-  src="https://streak-stats.demolab.com?user=aryautkarsh7&hide_border=true&background=0A241B&stroke=08872B&ring=EC4899&fire=EC4899&currStreakNum=5FED83&currStreakLabel=EC4899&sideNums=5FED83&sideLabels=0FBF3E&dates=7FBF97&v=1">
-
-</div>
 
 <br>
 
