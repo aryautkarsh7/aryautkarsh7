@@ -135,31 +135,6 @@ Pinned work lives on my profile —
 
 <div align="center">
 
-## 🤝 Connect With Me
-
-<a href="https://linkedin.com/in/aryautkarsh7">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-DB2777?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://x.com/aryautkarsh7">
-  <img alt="X" src="https://img.shields.io/badge/X-EC4899?style=for-the-badge&logo=x&logoColor=white">
-</a>
-<a href="https://instagram.com/aryautkarsh7">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-F472B6?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<br>
-<a href="https://tiktok.com/@aryautkarsh7">
-  <img alt="TikTok" src="https://img.shields.io/badge/TikTok-DB2777?style=for-the-badge&logo=tiktok&logoColor=white">
-</a>
-<a href="https://youtube.com/@aryautkarsh7">
-  <img alt="YouTube" src="https://img.shields.io/badge/YouTube-EC4899?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-<a href="mailto:aryautkarsh21@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-F472B6?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</div>
-
-<br>
 
 <!-- ─────────────────────────── FOOTER ─────────────────────────── -->
 
